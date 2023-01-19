@@ -1,5 +1,5 @@
 <?php
-    include $_SERVER['DOCUMENT_ROOT'].'/phpstudy/171-session.php';
+    include $_SERVER['DOCUMENT_ROOT'].'/php_study/171-session.php';
 //echo $_SERVER['DOCUMENT_ROOT'].'/phpstudy/171-session.php';
 ?>
 
