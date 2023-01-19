@@ -24,6 +24,8 @@
         <a href="/195-1-surveyResultBarChart.php">투표결과 바차트로 보기</a>
         <br>
         <a href="/195-2-surveyResultPiechart.php">투표결과 파이차트로 보기</a>
+        <br>
+        <a href="/webEditor/196-editorForm.php">간단한 코딩 에디터</a>
 <?php
     }
 ?>
