@@ -7,6 +7,7 @@
 
     $dbConnect -> set_charset("utf8");
 
+//  test!!!!!!!!!!!
 
     if(mysqli_connect_errno()){
         echo "DB 접속 실패";
