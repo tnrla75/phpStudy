@@ -9,6 +9,8 @@
 
 //  test!!!!!!!!!!!
 
+// test!!!!!!0532
+
     if(mysqli_connect_errno()){
         echo "DB 접속 실패";
     }else {
